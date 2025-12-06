@@ -1,4 +1,4 @@
-🔭 S2S / deep generative models / rare events
+🔭 S2S / deep generative models / information theory & causal
 
 <!--
 **sw-meteo/sw-meteo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
